@@ -7,7 +7,7 @@ sites:
     url: https://www.hillsidetechnologies.org/
   - name: Castorlist
     url: https://www.castorlist.qzz.io
-  - name: "tubirbutier\'s personal site"
+  - name: "tubirbutier's personal site"
     url: https://www.tubirbutier.qzz.io
 
 status-website:
@@ -26,7 +26,7 @@ status-website:
       href: https://www.hillsidetechnologies.org/
     - title: Castorlist
       href: https://www.castorlist.qzz.io
-    - title: "tubirbutier\'s personal site"
+    - title: "tubirbutier's personal site"
       href: https://www.tubirbutier.qzz.io
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
