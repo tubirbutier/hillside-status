@@ -1,31 +1,32 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: tubirbutier # Your GitHub organization or username, where this repository lives
+repo: hillside-status # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: Hillside Technologies
+    url: https://www.hillsidetechnologies.org/
+  - name: Castorlist
+    url: https://www.castorlist.qzz.io
+  - name: "tubirbutier\'s personal site"
+    url: https://www.tubirbutier.qzz.io
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: status.hillsidetechnologies.org
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  logoUrl: https://www.hillsidetechnologies.org/assets/images/Hillside2_200px.png
+  name: Hillside Technologies
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: Welcome. This status page is for all Hosted by Hillside sites & services.
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-
+    - title: Hillside Technologies
+      href: https://www.hillsidetechnologies.org/
+    - title: Castorlist
+      href: https://www.castorlist.qzz.io
+    - title: "tubirbutier\'s personal site"
+      href: https://www.tubirbutier.qzz.io
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
