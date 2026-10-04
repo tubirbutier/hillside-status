@@ -21,8 +21,8 @@ status-website:
     - title: Status
       href: /
     - title: Hillside Technologies
-      href: https://www.hillsidetechnologies.org/
+      href: https://status.hillsidetechnologies.org/history/hillside-technologies
     - title: Castorlist
-      href: https://www.castorlist.qzz.io
+      href: https://status.hillsidetechnologies.org/history/castorlist
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
