@@ -7,8 +7,6 @@ sites:
     url: https://www.hillsidetechnologies.org/
   - name: Castorlist
     url: https://www.castorlist.qzz.io
-  - name: "tubirbutier's personal site"
-    url: https://www.tubirbutier.qzz.io
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -17,7 +15,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://www.hillsidetechnologies.org/assets/images/Hillside2_200px.png
   name: Hillside Technologies
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introTitle: "Hillside Status"
   introMessage: Welcome. This status page is for all Hosted by Hillside sites & services.
   navbar:
     - title: Status
