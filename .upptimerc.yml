@@ -18,8 +18,6 @@ status-website:
   introTitle: "Hillside Status"
   introMessage: Welcome. This status page is for all Hosted by Hillside sites & services.
   navbar:
-    - title: Status
-      href: /
     - title: Hillside Technologies
       href: https://status.hillsidetechnologies.org/history/hillside-technologies
     - title: Castorlist
