@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.hillsidetechnologies.org.ico",
     "slug": "hillside-technologies",
     "status": "up",
-    "uptime": "86.53%",
-    "uptimeDay": "86.53%",
-    "uptimeWeek": "86.53%",
-    "uptimeMonth": "86.53%",
-    "uptimeYear": "86.53%",
-    "time": 310,
-    "timeDay": 310,
-    "timeWeek": 310,
-    "timeMonth": 310,
-    "timeYear": 310,
+    "uptime": "86.70%",
+    "uptimeDay": "86.70%",
+    "uptimeWeek": "86.70%",
+    "uptimeMonth": "86.70%",
+    "uptimeYear": "86.70%",
+    "time": 335,
+    "timeDay": 335,
+    "timeWeek": 335,
+    "timeMonth": 335,
+    "timeYear": 335,
     "dailyMinutesDown": {
       "2026-10-04": 18
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 359,
-    "timeDay": 359,
-    "timeWeek": 359,
-    "timeMonth": 359,
-    "timeYear": 359,
+    "time": 382,
+    "timeDay": 382,
+    "timeWeek": 382,
+    "timeMonth": 382,
+    "timeYear": 382,
     "dailyMinutesDown": {}
   }
 ]
